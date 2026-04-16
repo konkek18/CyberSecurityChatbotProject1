@@ -29,7 +29,7 @@ How to Run:
    - phishing
 
 Links:
-- GitHub Repository: (paste your link here)
+- GitHub Repository: https://github.com/konkek18/CyberSecurityChatbotProject1.git
 - YouTube Video: https://youtu.be/0PBp_7yNv88
 
 Requirements Met:
